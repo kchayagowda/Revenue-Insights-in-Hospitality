@@ -5,7 +5,7 @@ Key Features
 Interactive Power BI dashboard for exploring revenue data
 Clean and optimized data model (star schema)
 Data cleaning and transformation using Power Query
-Custom DAX measures for key KPIs – Revenue, ADR, RevPAR, Occupancy Rate
+Custom DAX measures for key KPIs – Revenue, ADR, RevPAR, Occupancy Rate 
 Week-over-Week and Year-over-Year trend analysis
 Interactive slicers for hotel, room type, and time period
 Visually appealing and easy-to-navigate dashboard design
