@@ -1,7 +1,7 @@
 # Revenue-Insights-in-Hospitality
 The Revenue Insights Dashboard is a Power BI project analyzing hotel revenue performance. It uses Power Query for data cleaning, DAX for KPI calculations, and interactive visuals to reveal key trends. The insights helped the hotel boost revenue by 20%. Tools: Power BI, Power Query, DAX, Excel.
 
-Key Features
+# Key Features
 Interactive Power BI dashboard for exploring revenue data
 Clean and optimized data model (star schema)
 Data cleaning and transformation using Power Query
@@ -13,7 +13,7 @@ Real-time insights through automated data refresh
 KPI cards and visuals for quick decision-making
 Professional storytelling with meaningful visualizations
 
-Key Insights
+# Key Insights
 Identified top-performing hotels contributing the most to total revenue
 Detected low-occupancy hotels and underperforming segments
 Uncovered seasonal and weekly booking trends
