@@ -37,7 +37,7 @@ Reflects data analyst best practices — accuracy, interactivity, and business r
 
 #Repositary Structure
 Data:Contain the sample dataset(if sharing is permitted)
-dashboard:power bi file(.pbix) of the project
+dashboard:power bi file of the project(pdf)
 
 ##Feedback & collabaration
 Your feedback is welcome if you'd like to collabarate on similar projects or discuss data analysis opprtunities,feel free to reach out
