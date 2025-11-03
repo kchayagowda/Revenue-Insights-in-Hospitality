@@ -22,3 +22,22 @@ Highlighted improvement opportunities through data-driven insights
 Showed positive impact of optimized pricing strategies
 Helped management achieve a 20% increase in revenue
 Supported better decision-making and operational efficiency
+
+# Why this Project stands out
+Combines real-world business context with strong data analytics skills.
+Demonstrates an end-to-end workflow — from data extraction, cleaning, and modeling to dashboard design and insight generation.
+Built using a clean star schema, ensuring scalability and analytical efficiency.
+Features custom DAX measures and time intelligence functions for dynamic insights.
+Focuses on business impact, not just visualization — driving a 20% revenue growth insight.
+Dashboard design follows professional BI standards, emphasizing clarity and usability.
+Integrates interactive storytelling to make data exploration easy for non-technical users.
+Showcases a strong understanding of hospitality domain KPIs such as RevPAR, ADR, and Occupancy Rate.
+Uses realistic datasets to simulate real business challenges and decisions.
+Reflects data analyst best practices — accuracy, interactivity, and business relevance.
+
+#Repositary Structure
+Data:Contain the sample dataset(if sharing is permitted)
+dashboard:power bi file(.pbix) of the project
+
+##Feedback & collabaration
+Your feedback is welcome if you'd like to collabarate on similar projects or discuss data analysis opprtunities,feel free to reach out
