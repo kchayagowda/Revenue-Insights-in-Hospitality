@@ -38,6 +38,7 @@ Reflects data analyst best practices — accuracy, interactivity, and business r
 #Repositary Structure
 Data:<a href=" https://github.com/kchayagowda/Revenue-Insights-in-Hospitality/blob/main/dim_date.csv"/a>
 dashboard:a href="https://github.com/kchayagowda/Revenue-Insights-in-Hospitality/blob/main/Revenue%20Insights%20in%20the%20Hospitality%20Domain.pdf"/a>
+Images: a href=""C:\Users\chaya\Downloads\WhatsApp Image 2025-11-03 at 1.08.01 PM.jpeg"/a>
 
 ##Feedback & collabaration
 Your feedback is welcome if you'd like to collabarate on similar projects or discuss data analysis opprtunities,feel free to reach out
