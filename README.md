@@ -36,7 +36,7 @@ Uses realistic datasets to simulate real business challenges and decisions.
 Reflects data analyst best practices — accuracy, interactivity, and business relevance.
 
 #Repositary Structure
-Data:Contain the sample dataset(if sharing is permitted)
+Data:<a href=" https://github.com/kchayagowda/Revenue-Insights-in-Hospitality/blob/main/dim_date.csv"/a>
 dashboard:power bi file of the project(pdf)
 
 ##Feedback & collabaration
